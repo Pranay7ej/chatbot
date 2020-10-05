@@ -6,7 +6,7 @@
 
 I used Python to build this simple chatbot that will be able to understand what the user is talking about and give an appropriate response.
 
-To implement this thing, I'd used ***Keras***(Keras is a neural networks library written in Python) , ***NLTK*** - Natural LAanguage Toolkit and some libraries.
+To implement this thing, I'd used ***Keras***(Keras is a neural networks library written in Python) , ***NLTK*** - Natural Language Toolkit and some libraries.
 
 We can break down this process of building the chatbot into 5 steps :-
 
